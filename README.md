@@ -10,7 +10,11 @@ Install tool using -
 
 ```npm i -g lazy-github-backup```
 
-now run the tool using
-lazy-github-backup <path-of-folder-where-multiple-git-projects-are-lying> <personal-access-token>
-lazy-github-backup C:/projects ghp_oXRYstlKuaPh8wOebnRyELFFRAWzxxxxx
+now run the tool using -
+
+```lazy-github-backup <path-of-folder-where-multiple-git-projects-are-lying> <personal-access-token>```
+
+```lazy-github-backup C:/projects ghp_oXRYstlKuaPh8wOebnRyELFFRAWzxxxxx```
+
+Run ```lazy-github-backup --help``` for details.
 

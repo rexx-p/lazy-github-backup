@@ -1,6 +1,6 @@
 {
   "name": "lazy-github-backup",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A cli tool to push various projects lying in your computer to github by automatically creating private repos in your github account",
   "main": "index.js",
   "homepage": "https://github.com/rexx-p/lazy-github-backup/",
