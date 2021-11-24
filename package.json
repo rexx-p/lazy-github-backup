@@ -11,5 +11,6 @@
     "axios": "^0.24.0",
     "simple-git": "^2.45.1",
     "yargs": "^17.2.1"
-  }
+  },
+  "keywords": ["github","backup", "backup to github multiple projects", "cli-tool to push to github", "npm github cli automate"]
 }
